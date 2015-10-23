@@ -1,0 +1,9 @@
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.GUI.resources
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+c:\users\tecdigital\documents\visual studio 2013\Projects\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
